@@ -96,7 +96,7 @@ Aquest document detalla el procediment pas a pas per instal·lar, configurar i u
 
 1.1 Descàrrega i instal·lació de l'aplicació d'escriptori
 
-Obre el navegador web a la màquina virtual (Windows 11) i accedeix a la ruta oficial: https://bitwarden.com/download/.
+Obre el navegador web a la màquina virtual (Windows 11) i accedeix a la ruta oficial: Bitwarden Download.
 
 Descarrega el paquet d'instal·lació corresponent a Windows.
 
